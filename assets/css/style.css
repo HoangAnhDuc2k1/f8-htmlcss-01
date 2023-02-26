@@ -89,7 +89,7 @@ a{
     font-size: 1.8rem;
     line-height: 1.5;
     letter-spacing: 0.01em;
-    color: #687690;
+    color: #687691;
 }
 .hero .title{
     font-weight: 700;
@@ -281,7 +281,7 @@ a{
 }
 .featured .item .desc{
     margin-top: 11px;
-    --line-clamb: 2;
+    --line-clamp: 2;
     word-break: break-all;
     
 }
